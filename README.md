@@ -4,7 +4,7 @@
  This project serves as an efficient and user-friendly means of delving into the dataset, catering to the needs of both novice and advanced SQL users.
  Plus, the repository likely includes a comprehensive README guide to aid in setting up the database, importing the data, and executing queries. ![sam](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL-FOR-PRACTICES/assets/101730779/237b606f-8499-43a0-afda-b8c6742155a0)
 
-  --------------------------------------------------------------------------------------------- OUTPUT ------------------------------------------------------------------------------------------- 
+  ---------------------------------------------------------------------------- OUTPUT -----------------------------------------------------------------  
 
 ![movie_table](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/80552b2c-2e95-4789-89b6-0eff3fdda4c7) ----> ![solution1](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/4ee329d5-15ec-4ec6-9539-1b7d151f7bb5)   ---->   ![solution 2](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/c8b4efad-4af3-4d0d-8c6a-c22b62f890e5)
 ![solution 3](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/cd2625a2-0425-4a8a-a33f-165eb0957528) ---->  ![solution 4](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/fb5f3b85-adc7-4c5d-a757-d17582e3e735)  ----> ![solution 5](https://github.com/kiransindam/Movie-Review-Analysis-Using-SQL/assets/101730779/6203f4ec-e25c-4c73-bdf0-fdb18821aa94)
